@@ -1,6 +1,7 @@
 #!/usr/bin/python  
-#Davonne Beckford - 620102760
-#Ramal Carbon - 620102764
+#Done By: Davonne Beckford
+#Email: davonne.development@gmail.com
+
 """
 The scanner will scan all ports between the range specified in the system arguments to see which is open and then
 return the banner and service vunerabilities.
