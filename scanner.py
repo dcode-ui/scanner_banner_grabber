@@ -6,7 +6,7 @@
 The scanner will scan all ports between the range specified in the system arguments to see which is open and then
 return the banner and service vunerabilities.
 
-Please note all vunerabilities have been defined in the json file
+Please note not all vunerabilities have been defined in the json file
 """
 
 import socket  
