@@ -1,0 +1,44 @@
+[
+    {
+        "port":22,
+        "service_name":"openssh",
+        "cve_code":["CVE-2019-6111","CVE-2019-6110","CVE-2019-6109","CVE-2018-20685","CVE-2018-15919"]
+    }, 
+    {
+        "port":20,
+        "service_name":"ftp",
+        "cve_code":["CVE-2019-9649","CVE-2019-9648","CVE-2018-12113","CVE-2014-4643","CVE-2014-1443"]
+    },
+    {
+        "port":21,
+        "service_name":"ftp",
+        "cve_code":["CVE-2004-1315","CVE-2004-0885","CVE-2004-0846","CVE-2004-0840","CVE-2004-0836"]
+    },
+    {
+        "port":25,
+        "service_name":"smpt",
+        "cve_code":["CVE-2004-0840","CVE-2005-0738","CVE-2004-0727","CVE-2004-0574","CVE-2004-0572"]
+    },
+    {
+        "port":80,
+        "service_name":"HTTP/1.1",
+        "cve_code":["CVE-2019-16354","CVE-2019-14357","CVE-2019-14355","CVE-2019-14354","CVE-2019-14353"]
+    },
+    {
+        "port":111,
+        "service_name":"Remote Procedure Call",
+        "cve_code":["CVE-2015-2370","CVE-2013-3175","CVE-2015-7570","CVE-2015-7569","CVE-2015-7568"]
+    },
+    {
+        "port":443,
+        "service_name":"HTTPS",
+        "cve_code":["CVE-2019-1020014","CVE-2019-1010208","CVE-2019-1003048","CVE-2019-17401","CVE-2019-17263"]
+    },
+    {
+        "port":631,
+        "service_name":"Internet Printing Protocol (IPP)",
+        "cve_code":["CVE-2004-0558","CVE-2008-1446","CVE-2001-0241","CVE-2007-5327","CVE-2007-5329"]
+    }
+
+
+]
